@@ -1,0 +1,1 @@
+API = https://wttr.in/${city}?format=j1
